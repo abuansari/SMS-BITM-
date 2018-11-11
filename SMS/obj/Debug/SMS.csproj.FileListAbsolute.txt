@@ -1,2 +1,0 @@
-F:\BITM\SMS\SMS\bin\Debug\SMS.exe.config
-F:\BITM\SMS\StockManagementSystem\SMS\bin\Debug\SMS.exe.config

@@ -1,0 +1,12 @@
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CategorySetup.resources
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+c:\users\my pc\onedrive\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+D:\Asad\BITM\SMS\SMS-BITM-\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+D:\Asad\BITM\SMS\SMS-BITM-\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+D:\Asad\BITM\SMS\SMS-BITM-\StockManagementSystem\obj\Debug\StockManagementSystem.pdb

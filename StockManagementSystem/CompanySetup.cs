@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SMS
+namespace StockManagementSystem
 {
-    public partial class Form1 : Form
+    public partial class CompanySetup : Form
     {
-        public Form1()
+        public CompanySetup()
         {
             InitializeComponent();
         }
